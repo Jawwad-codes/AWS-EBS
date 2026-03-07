@@ -1,4 +1,4 @@
-AWS EBS Snapshot Cleanup Automation (DevOps Project)
+AWS EBS Snapshot Cleanup Automation
 
 Project Description
 
